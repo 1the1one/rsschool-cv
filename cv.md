@@ -11,8 +11,7 @@ Interesting in blockchain and cryptocurrency development.
 Starting learn FrontEnd because i'm want to become a web 3.0 developer.
 # **Skills**
 - Photoshop
-- HTML
-- CSS
+- HTML, CSS
 - JS (Basic)
 - Git
 # **Code example**

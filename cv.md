@@ -20,8 +20,8 @@ Starting learn FrontEnd because i'm want to become a web 3.0 developer.
 >  return a * b;
 >} 
 > ```
-# **Education**
-1. Rsschool: JavaScript/Front-end (in progress)
+# **Courses**
+1. RsscHool JavaScript/Front-end (in progress)
 2. Freebootcamp: Responsive Web Design (in progress)
 3. JavaScript Manual on learnjavascript.ru (in progress)
 # **Languages**
